@@ -1,8 +1,37 @@
 ## Top Python Libraries Every Data science Aspirant Must know !
 
 
-Pandas
-======
+1.NumPy
+-------
+
+What is NumPy ?
+---------------
+
+NumPy is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
+- A matrix is a two-dimensional data structure where numbers are arranged into rows and columns.
+- In Numpy dimensions are called axes. The number of axes is rank.
+- The first axis ( i.e. axis-0 ) is running vertically downwards across rows, and the second (axis-1) running horizontally across columns.
+
+NumPy Topics
+------------
+ - Array
+ - Shape and Reshape
+ - Shape and Reshape with Arange
+ - Swapaxes
+ - Understanding Axes
+ - Matrix Operations
+ - Slicing - Two-dimensional Numpy Arrays
+ - Slice a Range of Values from Two-dimensional Numpy Arrays
+ - Masking and Filtering
+ - Transposing
+ - Sorting
+ - Concatenation
+ - Ones
+ - Zeros
+
+2.Pandas
+========
 
 Pandas is a software library written for the python programming language for data manipulation and analysis.
 
