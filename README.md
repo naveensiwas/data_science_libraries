@@ -31,7 +31,10 @@ NumPy Topics
  - Zeros
 
 2.Pandas
-========
+--------
+
+What is Pandas ?
+----------------
 
 Pandas is a software library written for the python programming language for data manipulation and analysis.
 
